@@ -1,0 +1,26 @@
+.sugerencias{
+    padding: 30px;
+}
+
+.texto{
+	color: grey;
+}
+
+.mapa{
+	padding: 20px;
+}
+.boton{
+        margin: 0 30%;
+}
+.form{
+        margin-top: 10px;
+}
+.bot{
+    margin-bottom: 10px;
+}
+.f{
+    padding:10px;
+}
+a{
+    color: #636669;
+}
